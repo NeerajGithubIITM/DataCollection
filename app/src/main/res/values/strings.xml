@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Data Collection</string>
+    <string name="data_entry">Data Entry</string>
+    <string name="saved_data">Saved Data</string>
+    <string name="info_collector">Info Collector</string>
+    <string name="no_1">Collects your information and stores it in a database.</string>
+    <string name="no_2">1.To enter and save \'Name\' and \'Age\' data, click on \'Data Entry\'.</string>
+    <string name="no_3">2. To view previously entered data, click on \'Saved Data\'</string>
+    <string name="ViewDataHeading"><![CDATA[Saved Name & Age data]]></string>
+    <string name="enter_name">Enter name</string>
+    <string name="enter_age">Enter age</string>
+    <string name="data_entry_tv">Enter the name and age below</string>
+    <string name="id">ID</string>
+    <string name="name_view">Name</string>
+    <string name="age_view">Age</string>
+    <string name="empty_mssg">Sorry, this database is empty :(</string>
+    <string name="save_data">Save Data</string>
+</resources>
